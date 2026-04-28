@@ -1,4 +1,4 @@
-ABOUT ME
+
 Computer Science student at Malla Reddy Engineering College specializing in Artificial
 Intelligence and Machine Learning (CSE-AIML). Strong in problem-solving with a growing
 interest in data-driven technologies and programming. Passionate about applying AI
